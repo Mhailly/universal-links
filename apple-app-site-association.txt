@@ -1,0 +1,15 @@
+{"applinks":
+    {
+        "apps":[],
+        "details":[
+            {
+                "appID":"7HG5XX5BZL.com.cyzzst.zz",
+                "paths":["*"]
+            },
+            {
+                "appID":"7HG5XX5BZL.com.test.791",
+                "paths":["/path/*"]
+            }
+        ]
+    }
+}
